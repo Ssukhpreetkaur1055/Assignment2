@@ -1,0 +1,35 @@
+
+h1{
+    font-weight: bold;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: cursive;
+}
+
+.pl
+{
+    padding-left: 50px;
+}
+
+.navbar-brand {
+  font-family:  cursive;
+}
+
+legend {
+  font-family: ' cursive;
+}
+
+body {
+  font-family: "Cabin", Arial, sans-serif;
+  color: white;
+  background-color: #946B84;
+  margin-top: 110px;
+  margin-left: 30px;
+}
+#homeimg{
+   background-image: url(../images/pro.jpg);
+    height:500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
